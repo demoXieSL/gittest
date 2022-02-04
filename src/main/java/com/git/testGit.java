@@ -7,5 +7,6 @@ public class testGit {
         System.out.println("test git3!");
         System.out.println("master---test");
         System.out.println("dev---test");
+        System.out.println("GitHub push test");
     }
 }
